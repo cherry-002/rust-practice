@@ -1,0 +1,12 @@
+[package]
+name = "start"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+# [workspace]
+# members = [
+#   "rust/hello",
+#   "rust/variables",
+# ]
