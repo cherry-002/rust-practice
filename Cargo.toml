@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 spinners = "4.1.1"
 rand="0.8.5"
-
+regex = "*"
 
 # [workspace]
 # members = [
